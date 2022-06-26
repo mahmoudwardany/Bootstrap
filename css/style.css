@@ -1,0 +1,16 @@
+header{
+    background: url(../images/bg.jpg) center/ 100% 100% no-repeat;
+    height: 85vh;
+}
+
+.process{
+    background: url(../images/process-bg.jpg) center/100% 100% no-repeat;
+    height: 70vh;
+}
+.bg-orange {
+    background: var(--bs-orange);
+}
+
+.text-orange {
+    color: var(--bs-orange);
+}
